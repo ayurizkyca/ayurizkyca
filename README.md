@@ -1,6 +1,9 @@
 ## Hi there 👋
 ### I'am Ayu. <br> Currently, I'm starting to learn about web programming, and I have a strong desire for this field.
 
+### 📝 Here's my all-time favorite Zig Zaglar quote:
+<h3><i>"you don't have to be great to start, but you have to start to be great"</i></h3>
+
 ###
 
 <div align="left">
