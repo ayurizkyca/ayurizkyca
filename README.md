@@ -1,17 +1,23 @@
 ## Hi there 👋
-### I'am Ayu. Now I am very passionate about learning to be a web developer.
+### I'am Ayu. <br> Currently, I'm starting to learn about web programming, and I have a strong desire for this field.
 
-<p align="left">
-<a href="https://github.com/ayurizkyca">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayurizkyca&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayurizkyca&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayurizkyca&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayurizkyca&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://linkedin.com/in/ayu-rizkyca-awalia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayurizkyca" height="30" width="40" /></a>
-<a href="https://instagram.com/ayu_rizkyca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayurizkyca" height="30" width="40" /></a>
+<div align="left">
+  <a href = "https://www.youtube.com/channel/UCE9dPfL3ZDEwUwo8OUJhKmw"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
+  <a href="https://www.instagram.com/ayu_rizkyca/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+  <a href="https://www.linkedin.com/in/ayu-rizkyca-awalia/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+</div>
+
+###
 <!--
 **ayurizkyca/ayurizkyca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
